@@ -1,1 +1,1 @@
-this is a sample text file to test out git
+this is a sample text file to test out git 2.0
